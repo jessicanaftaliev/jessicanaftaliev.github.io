@@ -1,2 +1,3 @@
 # jessicanaftaliev.github.io
-gepg w12 lab7
+geo w12 lab7
+Map showing my favorite places on the West Coast
